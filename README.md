@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+### Publish to github.io 
+
+```
+sh publish.sh
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
