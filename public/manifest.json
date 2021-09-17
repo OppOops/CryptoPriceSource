@@ -1,0 +1,18 @@
+{
+    "name": "CryptoState",
+    "short_name": "CryptSt",
+    "icons": [{
+      "src": "/CryptoPrice/details-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },{
+      "src": "/CryptoPrice/details-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+    "start_url": "/CryptoPrice/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#FAFAFA",
+    "theme_color": "#6387F5"
+  }
